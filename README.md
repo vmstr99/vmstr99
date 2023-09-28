@@ -7,9 +7,6 @@ I'm Valerio Mastrianni and I'm a Data Science student at Politecnico di Torino.
 :loudspeaker: Connect with me:
 - [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-mastrianni/)
 - [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vamastrianni@gmail.com)
-- https://it.wikipedia.org/wiki/LinkedIn#/media/File:LinkedIn_Logo_2013.svg
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <!--
 **vmstr99/vmstr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
