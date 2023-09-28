@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Valerio Mastrianni and I'm a Data Science student at Politecnico di Torino.
+
+Above you can find my projects:
+
 
 <!--
 **vmstr99/vmstr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
