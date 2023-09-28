@@ -5,8 +5,8 @@ I'm Valerio Mastrianni and I'm a Data Science student at Politecnico di Torino.
 - [Federated learning autonomus driving](https://github.com/vmstr99/MLDL_Project-FL-SS)
 
 :loudspeaker: Connect with me:
-
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-mastrianni/)
+- [![text](https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg)](https://www.linkedin.com/in/valerio-mastrianni/)
+https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg
 <!--
 **vmstr99/vmstr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
