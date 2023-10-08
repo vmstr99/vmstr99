@@ -4,7 +4,7 @@ I'm Valerio Mastrianni and I'm a Data Science student at Politecnico di Torino.
 :pushpin: Above you can find my projects:
 - [Federated learning autonomus driving](https://github.com/vmstr99/MLDL_Project-FL-SS)
 - [Speech action recognition](https://github.com/vmstr99/action-recognition)
-- [Movies recommendation system](https://github.com/vmstr99/movie-recomendation-system)
+- [Movies recommendation system](https://github.com/vmstr99/movie-recommendation-system)
 
 :loudspeaker: Connect with me:
 - [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-mastrianni/)
