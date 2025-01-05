@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Valerio Mastrianni and I'm a Data Science student at Politecnico di Torino.
+I'm Valerio Mastrianni ML engineer, currently at Noah Labs.
 
 :pushpin: Here you can find my projects:
 - [Federated learning autonomus driving](https://github.com/vmstr99/MLDL_Project-FL-SS)
