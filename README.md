@@ -1,25 +1,20 @@
-### Hi there 👋
-I'm Valerio Mastrianni ML engineer, currently at Noah Labs.
+# Hi there, I'm Valerio Mastrianni
 
-:pushpin: Here you can find my projects:
-- [Federated learning autonomus driving](https://github.com/vmstr99/MLDL_Project-FL-SS)
-- [Speech action recognition](https://github.com/vmstr99/action-recognition)
-- [Movies recommendation system](https://github.com/vmstr99/movie-recommendation-system)
+**Machine Learning Engineer @ [Noah Labs](https://www.noahlabs.ai)**  
+I work at the intersection of **AI, speech processing**, and **healthcare**.  
+Most of my professional work is hosted on a private organization account — this profile contains selected personal projects and experiments.
 
-:loudspeaker: Connect with me:
-- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-mastrianni/)
-- [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vamastrianni@gmail.com)
-<!--
-**vmstr99/vmstr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
 
-- I'm Valerio Mastrianni and I'm a Data Science student at Politecnico di Torino.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/valerio-mastrianni/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vamastrianni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
