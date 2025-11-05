@@ -1,6 +1,6 @@
 # Hi there, I'm Valerio Mastrianni
 
-**Machine Learning Engineer @ [Noah Labs](https://www.noahlabs.ai)**  
+**Machine Learning Engineer @ [Noah Labs](https://www.noah-labs.com/)**  
 I work at the intersection of **AI, speech processing**, and **healthcare**.  
 Most of my professional work is hosted on a private organization account — this profile contains selected personal projects and experiments.
 
