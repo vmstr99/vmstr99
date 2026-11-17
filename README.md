@@ -1,4 +1,4 @@
-# Hi there, I'm Valerio Mastrianni
+# Hi there, I'm Valerio
 
 **Machine Learning Engineer @ [Noah Labs](https://www.noah-labs.com/)**  
 I work at the intersection of **AI, speech processing**, and **healthcare**.  
